@@ -1,0 +1,6 @@
+INDEX VERSION 1.126+C:\Users\Matek\Desktop\sew\iwas\.metadata\.plugins\org.eclipse.jdt.core
+1284074322.index
+426100740.index
+3806256868.index
+2307691234.index
+1657330681.index
